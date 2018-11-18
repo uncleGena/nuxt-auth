@@ -19,12 +19,16 @@
     "@adonisjs/ace": "^5.0.2",
     "@adonisjs/auth": "^3.0.5",
     "@adonisjs/bodyparser": "^2.0.3",
+    "@adonisjs/cli": "^4.0.9",
     "@adonisjs/cors": "^1.0.6",
     "@adonisjs/fold": "^4.0.8",
     "@adonisjs/framework": "^5.0.7",
     "@adonisjs/ignitor": "^2.0.6",
     "@adonisjs/lucid": "^5.0.4",
-    "sqlite3": "^4.0.1"
+    "@nuxtjs/auth": "^4.5.3",
+    "@nuxtjs/axios": "^5.3.6",
+    "sqlite3": "^4.0.1",
+    "vue-cli": "^2.9.6"
   },
   "devDependencies": {},
   "autoload": {

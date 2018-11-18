@@ -26,3 +26,5 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+https://scotch.io/tutorials/implementing-authentication-in-nuxtjs-app
